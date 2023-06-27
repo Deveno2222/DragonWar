@@ -42,7 +42,7 @@ Remember, defeating mobs will grant you rewards, while fighting the dragon is th
 
 ## Credits
 
-"Dragon War" is developed by [Your Name]. Thank you for playing and supporting the game!
+"Dragon War" is developed by Deveno2222. Thank you for playing and supporting the game!
 
 ## License
 
